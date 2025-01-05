@@ -1,8 +1,6 @@
 # CUSTOMER PERFORMANCE DASHBOARD
 
-Dashboard Link: https://lnkd.in/dDTMjfsE
-
-Problem Statement: This dashboard provides a comprehensive view of customer performance metrics. It empowers businesses with actionable insights.
+Dashboard Link: https://app.powerbi.com/groups/me/reports/2302a92b-bb5f-480a-8c94-c7f8ff58bb0b?ctid=a244f90e-beae-4adc-a8cb-4c0c34466fd2&pbi_source=linkShare
 
 The dashboard enables in-depth demographic segmentation, customer lifetime value (CLV) assessments, and profit optimization strategies. It is a valuable tool for strategic decision-making aimed at improving customer retention and boosting overall profitability.
 
